@@ -1,6 +1,6 @@
 /**
  * koa2 dev middleware for uba-server
- * Version  : v0.0.1
+ * Version  : v1.0.0
  * Author   : Kvkens(yueming@yonyou.com)
  * Date     : 2017-12-22 12:25:24
  */

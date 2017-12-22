@@ -1,6 +1,6 @@
 {
   "name": "koa-uba-dev-middleware",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "koa2 dev-middleware for uba-server",
   "main": "index.js",
   "scripts": {

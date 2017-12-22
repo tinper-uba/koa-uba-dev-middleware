@@ -30,3 +30,7 @@ app.listen(5000, () => {
 });
 
 ```
+
+## API
+
+[webpack-dev-middleware](https://www.npmjs.com/package/webpack-dev-middleware)
