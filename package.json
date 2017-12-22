@@ -1,0 +1,27 @@
+{
+  "name": "koa-uba-dev-middleware",
+  "version": "0.0.2",
+  "description": "koa2 dev-middleware for uba-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinper-uba/koa-uba-dev-middleware.git"
+  },
+  "keywords": [
+    "uba",
+    "koajs",
+    "yonyou"
+  ],
+  "author": "yueming@yonyou.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinper-uba/koa-uba-dev-middleware/issues"
+  },
+  "homepage": "https://github.com/tinper-uba/koa-uba-dev-middleware#readme",
+  "dependencies": {
+    "webpack-dev-middleware": "^2.0.2"
+  }
+}
